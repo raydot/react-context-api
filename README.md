@@ -8,7 +8,7 @@ This "SharedSnackbar" demo is written with outdated <em>class<em> syntax and has
 ### Second Demo
 
 https://medium.com/better-programming/how-to-use-reacts-context-api-and-usecontext-hooks-effectively-ed98ad9343b6
-The second demo
+The second demo is not a complete working demo but fills in the gaps on how to use CreateContext. Pairs well with the first demo.
 
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
