@@ -1,6 +1,14 @@
+### First Demo
+
+https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c
 Context API has provider and consumer components. Provider provides the state of the snackbar, as well as functions for manipulating that state, to all consumers.
 
-This demo is written with outdated "class" syntax and has a weird circular dependency in it, but other than that it's pretty good.
+This "SharedSnackbar" demo is written with outdated <em>class<em> syntax and has a weird circular dependency in it, but other than that it's pretty good.
+
+### Second Demo
+
+https://medium.com/better-programming/how-to-use-reacts-context-api-and-usecontext-hooks-effectively-ed98ad9343b6
+The second demo
 
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
